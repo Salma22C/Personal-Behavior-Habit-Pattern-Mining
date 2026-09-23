@@ -1,10 +1,3 @@
-# Personal-Behavior-Habit-Pattern-Mining
-
-Yes — for this project, we should create a **proper README.md for V1** now, while everything is fresh. It should document what actually exists, not future V2 plans.
-
-Here’s a clean version you can put in the repository:
-
-````markdown
 # 📱 Personal Behavior & Habit Pattern Mining
 
 A Data Mining project that uses **K-Means clustering** to discover behavioral patterns in smartphone usage data.
