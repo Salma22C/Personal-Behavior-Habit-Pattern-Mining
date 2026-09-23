@@ -349,25 +349,9 @@ Future development may explore:
 
 ---
 
-## 📌 Project Status
-
-**V1 — Complete ✅**
-
-The project currently has:
-
-* Data preprocessing
-* K-Means clustering
-* Model evaluation
-* Cluster profiling
-* Saved preprocessing model
-* Saved clustering model
-* New-user prediction
-* Processed clustered dataset
-* Streamlit application
-
 **V2 will be developed later.**
 
-```
+
 
 
 
